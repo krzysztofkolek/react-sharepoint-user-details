@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="fc525666-3d1c-4a0c-a269-4c6374ecc702" 
+        solutionId="fc525666-3d1c-4a0c-a269-4c6374ecc702" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="UserDetailsApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="556c994f-669e-49cc-b266-8ee23fc86fe2" />
+  </features>
+</package>
